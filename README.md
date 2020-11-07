@@ -1,4 +1,4 @@
-# Image_Deblurring_App
+# Image Deblurring App
 
 ## Description
 
