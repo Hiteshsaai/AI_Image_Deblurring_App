@@ -1,4 +1,4 @@
-# Image Deblurring App
+# Image Deblurring ML Application
 
 ## Introduction
 
